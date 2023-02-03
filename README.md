@@ -6,7 +6,7 @@ Viscosity Prediction (Viscnet)
 
 Melting Temperature Prediction (Sciglass with ANN)
 
-## Ref.
+## References
 
 Cassar, D.R. (2021). ViscNet: Neural network for predicting the fragility index and the temperature-dependency of viscosity. Acta Materialia 206, 116602.
 
