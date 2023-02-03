@@ -1,0 +1,11 @@
+sodalime-viscosity.png
+Viscosity-of-pure-fused-silica.png
+210503_tliq_NN_model.h5
+files/
+
+cross_validation.py
+data.py
+metrics.py
+models.py
+plots.py
+train.py
