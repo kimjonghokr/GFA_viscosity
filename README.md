@@ -4,7 +4,7 @@ Glass Forming Ability Calculation (Jezica)
 
 Viscosity Prediction (Viscnet)
 
-Melting Temperature Prediction
+Melting Temperature Prediction (Sciglass with ANN)
 
 ## Ref.
 
